@@ -1,0 +1,11 @@
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\bin\Debug\netcoreapp2.1\Ticket.deps.json
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\bin\Debug\netcoreapp2.1\Ticket.runtimeconfig.json
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\bin\Debug\netcoreapp2.1\Ticket.runtimeconfig.dev.json
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\bin\Debug\netcoreapp2.1\Ticket.dll
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\bin\Debug\netcoreapp2.1\Ticket.pdb
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.AssemblyInfoInputs.cache
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.AssemblyInfo.cs
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.dll
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.pdb
+C:\Users\Suare\source\repos\TicketChidoriV2\TicketChidoriV2\TicketChidori\TicketChidori\obj\Debug\netcoreapp2.1\Ticket.csprojAssemblyReference.cache

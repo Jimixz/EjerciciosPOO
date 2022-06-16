@@ -1,0 +1,11 @@
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\bin\Debug\netcoreapp2.1\FactoresPrimos.deps.json
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\bin\Debug\netcoreapp2.1\FactoresPrimos.runtimeconfig.json
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\bin\Debug\netcoreapp2.1\FactoresPrimos.runtimeconfig.dev.json
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\bin\Debug\netcoreapp2.1\FactoresPrimos.dll
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\bin\Debug\netcoreapp2.1\FactoresPrimos.pdb
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.csprojAssemblyReference.cache
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.AssemblyInfoInputs.cache
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.AssemblyInfo.cs
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.dll
+C:\Users\Suare\source\repos\FactoresPrimos\FactoresPrimos\obj\Debug\netcoreapp2.1\FactoresPrimos.pdb

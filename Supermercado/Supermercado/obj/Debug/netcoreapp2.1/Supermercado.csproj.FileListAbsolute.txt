@@ -1,0 +1,11 @@
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.csprojAssemblyReference.cache
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.AssemblyInfoInputs.cache
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.AssemblyInfo.cs
+C:\Users\Suare\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp2.1\Supermercado.deps.json
+C:\Users\Suare\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp2.1\Supermercado.runtimeconfig.json
+C:\Users\Suare\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp2.1\Supermercado.runtimeconfig.dev.json
+C:\Users\Suare\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp2.1\Supermercado.dll
+C:\Users\Suare\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp2.1\Supermercado.pdb
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.dll
+C:\Users\Suare\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp2.1\Supermercado.pdb
